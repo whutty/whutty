@@ -2,8 +2,7 @@
 
 <div align="center">
 
-Software Developer  
-Focused on building scalable and efficient solutions  
+  
 
 </div>
 
@@ -44,7 +43,7 @@ Focused on building scalable and efficient solutions
 
 ---
 
-## 🚀 Projects
+<!--## 🚀 Projects
 
 - Veyo Project — Custom web browser (in development)
 
@@ -56,4 +55,4 @@ Focused on building scalable and efficient solutions
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:your@email.com)
 
-</div>
+</div>--> 
